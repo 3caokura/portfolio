@@ -264,7 +264,7 @@ header h1 a {
 .top-bg {
     background-image: url(./images/logo_top.png);
     background-position: center center;
-    background-size: cover;
+	background-size: contain;
     height: 100vh;
     width: 100%;
     position: absolute;
@@ -716,6 +716,7 @@ footer {
         margin: 0 auto;
     }
 }
+
 
 
 
