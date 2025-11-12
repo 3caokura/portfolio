@@ -60,7 +60,7 @@ nav a:hover:after {
     width: 100%;
 }
 
-/* --- トップビジュアル（動画） --- */
+/* --- トップビジュアル --- */
 .top-bg {
     position: relative; 
     width: 100%;
@@ -73,7 +73,7 @@ nav a:hover:after {
     align-items: center;
 }  
 
-.top-bg img {
+.top-bg-image {
     width: 80%;
     height: 450px
     object-fit: cover;
@@ -374,3 +374,4 @@ h2 {
     }
 
 }
+
